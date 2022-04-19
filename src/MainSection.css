@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+.mainsection{
+    display: flex;
+    justify-content: space-around;
+}
+.main__text{
+    color: black;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 100px;
+   
+}
+.financial__system{
+    font-size: 60px;
+    margin-bottom: 0;
+    font-family: 'Inter', sans-serif;
+}
+.today{
+    font-size: 100px;
+    margin-top: 0;
+    color: #2FA4FF;
+    font-family: 'Inter', sans-serif;
+}
+
+.img1{
+    height: 500px;
+    width: 500px;
+    padding-right: 50px;
+}
